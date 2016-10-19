@@ -1,0 +1,3 @@
+[submodule "src/tasker"]
+	path = src/tasker
+	url = https://github.com/mehtaphysical/tasker.git
